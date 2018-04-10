@@ -1,13 +1,13 @@
 {
-  "name": "helloworld",
+  "name": "mLog",
   "version": "1.0.0",
-  "description": "just a test",
-  "main": "hw.js",
+  "description": "mLog",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ramon Ecung",
+  "license": "MIT",
   "dependencies": {
     "brain.js": "^1.1.2",
     "chai": "^4.1.2",
